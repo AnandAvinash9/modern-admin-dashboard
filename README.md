@@ -19,7 +19,11 @@ _Built with the tools and technologies:_
 ![ESLint](https://img.shields.io/badge/-ESLint-purple?style=flat-square)
 
 ---
+## 🌐 Live Demo
 
+👉 **Hosted on Netlify**: [https://modern-dashbd.netlify.app/](https://modern-dashbd.netlify.app/)
+
+---
 ## Table of Contents
 
 - [Overview](#overview)
